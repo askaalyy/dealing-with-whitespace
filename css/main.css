@@ -32,3 +32,11 @@ article header {
   color: #222;
   font-style: italic;
 }
+
+blockquote {
+  font-family: "Crimson Text", serif;
+  font-size: 1.125rem;
+  color: #999;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
