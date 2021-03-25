@@ -7,6 +7,10 @@ html {
   box-sizing: inherit;
 }
 
+body {
+  margin: 0;
+}
+
 article header {
   font-style: italic;
   font-size: 1rem;
