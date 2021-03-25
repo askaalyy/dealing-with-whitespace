@@ -7,9 +7,28 @@ html {
   box-sizing: inherit;
 }
 
-h1 {
+article header {
+  font-style: italic;
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  border-bottom: .1px solid;
+  padding-top: .1em;
+  padding-bottom: 1.35em;
+  border-color: #999;
+}
+
+ article h1 {
   font-family: "Crimson Text", serif;
   font-size: 1.5rem;
   color: #222;
   font-weight: normal;
+}
+
+ article header p {
+  padding-top: 2em;
+  font-family: "Crimson Text", serif;
+  font-size: 1.5rem;
+  color: #222;
+  font-style: italic;
 }
