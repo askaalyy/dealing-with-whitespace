@@ -20,17 +20,20 @@ article header {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+
+article h1 {
+  margin: auto;
+ margin-bottom: 0;
+ margin-top: 1.25rem;
+ color: #222;
+ font-weight: normal;
+}
+
 article p {
  font-family: "Crimson Text", serif;
  border-bottom: .1px solid;
  border-color: #999;
-}
-
- article h1 {
-  font-family: "Crimson Text", serif;
-  font-size: 1.5rem;
-  color: #222;
-  font-weight: normal;
 }
 
  article header p {
