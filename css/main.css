@@ -30,27 +30,43 @@ article h1 {
  font-weight: normal;
 }
 
-article p {
- font-family: "Crimson Text", serif;
- border-bottom: .1px solid;
- border-color: #999;
-}
-
- article header p {
-  padding-top: 2em;
-  padding-bottom: 2em;
-  font-family: "Crimson Text", serif;
-  font-size: 1.5rem;
-  color: #222;
+article header p {
+ padding-top: 1em;
+ padding-bottom: 1.35em;
+ font-size: 1rem;
+  border-color: #999;
   font-style: italic;
+  margin-bottom: 0;
+  margin-top: 0;
+  border-bottom: .1px solid;
 }
 
-blockquote {
-  font-family: "Crimson Text", serif;
+article header + p {
+  padding: 2em;
+  padding-top: 2em;
+}
+
+article p {
+ font-size: 1rem;
+ font-style: normal;
+ color: #222;
+ line-height: 1.25;
+ padding-top: .25em;
+ padding-bottom: 0;
+}
+
+.quote {
   font-size: 1.125rem;
-  color: #999;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  color: #555;
+  margin-left: -.3em;
+}
+
+blockquote p {
+  font-size: 1.125rem;
+  color: #555;
+}
+blockquote {
+  margin-bottom: 1.25em;
 }
 
 
