@@ -69,9 +69,19 @@ blockquote {
   margin-bottom: 1.25em;
 }
 
+body {
+  margin: 0;
+  padding-bottom: 1.5em;
+}
+
+article  ol {
+  margin-left: -1.5rem;
+}
 
 article {
-  font-family: "Crimson Text", serif;
-  padding-left: 1rem;
-  padding-right: 1rem;
+  margin-bottom: 0;
+  margin-top: 0;
+  border-bottom: .1px solid;
+  padding-bottom: .5em;
+  border-color: #999;
 }
