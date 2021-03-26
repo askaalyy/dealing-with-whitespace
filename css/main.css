@@ -18,19 +18,18 @@ article header {
   margin-bottom: 0;
 }
 
-
 article h1 {
   margin: auto;
- margin-bottom: 0;
- margin-top: 1.25rem;
- color: #222;
- font-weight: normal;
+  margin-bottom: 0;
+  margin-top: 1.25rem;
+  color: #222;
+  font-weight: normal;
 }
 
 article header p {
- padding-top: 1em;
- padding-bottom: 1.35em;
- font-size: 1rem;
+  padding-top: 1em;
+  padding-bottom: 1.35em;
+  font-size: 1rem;
   border-color: #999;
   font-style: italic;
   margin-bottom: 0;
@@ -43,12 +42,12 @@ article header + p {
 }
 
 article p {
- font-size: 1rem;
- font-style: normal;
- color: #222;
- line-height: 1.25;
- padding-top: .25em;
- padding-bottom: 0;
+  font-size: 1rem;
+  font-style: normal;
+  color: #222;
+  line-height: 1.25;
+  padding-top: .25em;
+  padding-bottom: 0;
 }
 
 .quote {
@@ -71,7 +70,7 @@ body {
   padding-bottom: 1.5em;
 }
 
-article  ol {
+article ol {
   margin-left: -1.5rem;
 }
 
