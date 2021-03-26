@@ -11,6 +11,12 @@ body {
   margin: 0;
 }
 
+article {
+  font-family: "Crimson Text", serif;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
 article header {
   font-style: italic;
   font-size: 1rem;
@@ -20,6 +26,11 @@ article header {
   padding-top: .1em;
   padding-bottom: 1.35em;
   border-color: #999;
+}
+article p {
+ font-family: "Crimson Text", serif;
+ border-bottom: .1px solid;
+ border-color: #999;
 }
 
  article h1 {
@@ -31,6 +42,7 @@ article header {
 
  article header p {
   padding-top: 2em;
+  padding-bottom: 2em;
   font-family: "Crimson Text", serif;
   font-size: 1.5rem;
   color: #222;
