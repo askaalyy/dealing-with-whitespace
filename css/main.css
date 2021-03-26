@@ -27,7 +27,7 @@ article h1 {
 }
 
 article header p {
-  padding-top: 1em;
+  padding-top: .1em;
   padding-bottom: 1.35em;
   font-size: 1rem;
   border-color: #999;
@@ -38,7 +38,7 @@ article header p {
 }
 
 article header + p {
-  padding-top: 2em;
+  padding-top: .2em;
 }
 
 article p {
